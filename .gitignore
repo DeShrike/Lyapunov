@@ -1,0 +1,4 @@
+*.o
+lyapunov
+*.png
+!images/*.png
